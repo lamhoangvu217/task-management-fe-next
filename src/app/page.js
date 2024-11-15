@@ -1,6 +1,6 @@
 
 export default function Home() {
   return (
-    <div>sads</div>
+    <div>Chào mừng bạn đến với trang chủ</div>
   );
 }
